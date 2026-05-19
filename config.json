@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "html-css-fundamentals",
+      "title": "HTML & CSS Fundamentals",
+      "description": "Learn semantic HTML structure and CSS styling to build your first web page",
+      "path": "assignments/html-css-fundamentals",
+      "dueDate": "2026-05-26",
+      "attachments": [
+        {
+          "name": "Starter HTML",
+          "file": "starter-code.html",
+          "type": "html"
+        },
+        {
+          "name": "Starter CSS",
+          "file": "styles.css",
+          "type": "css"
+        }
+      ]
     }
   ]
 }
